@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\assets",
+    "\\src\\environments",
+    "\\src\\parent\\child"
+  ],
+  "SelectedNode": "\\.editorconfig",
+  "PreviewInSolutionExplorer": false
+}
